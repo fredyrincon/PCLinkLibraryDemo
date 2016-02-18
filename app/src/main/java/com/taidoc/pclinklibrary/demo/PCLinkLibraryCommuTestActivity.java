@@ -68,6 +68,7 @@ import com.taidoc.pclinklibrary.meter.util.MeterManager;
  */
 
 //pullrequest comment.
+    //Add a second comment
 public class PCLinkLibraryCommuTestActivity extends ListActivity {
     // Message types sent from the meterCommuHandler Handler
     public static final int MESSAGE_STATE_CONNECTING = 1;
