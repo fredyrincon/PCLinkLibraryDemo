@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/get_serial_number.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/get_serial_number.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/listview_content_search.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/listview_content_search.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/set_meter_system_clock.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/set_meter_system_clock.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/disable_always_on.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/disable_always_on.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/clear_records.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/clear_records.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/monitor_audio.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/monitor_audio.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/knv_layout.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/knv_layout.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/pair_device_result.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/pair_device_result.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/listview_content_delete.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/listview_content_delete.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/turn_off_meter.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/turn_off_meter.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/search_meter.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/search_meter.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/choose_paired_device_and_type.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/choose_paired_device_and_type.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/weight_scale_user_profile.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/weight_scale_user_profile.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/setting_meter.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/setting_meter.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/get_battery_status.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/get_battery_status.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/get_meter_system_clock.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/get_meter_system_clock.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/get_project_code.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/get_project_code.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/get_storage_count.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/get_storage_count.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/layout/get_latest_measurement_record.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/layout/get_latest_measurement_record.xml"
+    }
+]

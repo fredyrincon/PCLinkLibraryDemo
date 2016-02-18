@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_search.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_search.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_list_delete_background.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_list_delete_background.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_upload.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_upload.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_search_meter.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_search_meter.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_icon.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_icon.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/customshape.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/customshape.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_remove.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_remove.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_search_bg.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_search_bg.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_back.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_back.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_back.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_back.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_cancel.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_cancel.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_add.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_add.xml"
+    },
+    {
+        "merged": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/build/intermediates/res/merged/debug/drawable/button_pair_add.xml",
+        "source": "/Users/FRincon/Documents/frincon/Projects/android_workspace/PCLinkLibraryDemo1/app/src/main/res/drawable/button_pair_add.xml"
+    }
+]
